@@ -1,16 +1,16 @@
-## ITECA-WEBSITE
-Web Name: 
+# ITECA-WEBSITE
+  Web Name: 
 
-# Project Languages
-- HTML
-- CSS
-- JAVASCRIPT
-- PHP
-- MySQL
+## Project Languages
+  - HTML
+  - CSS
+  - JAVASCRIPT
+  - PHP
+  - MySQL
 
-# Frameworks
--Bootstrap
+## Frameworks
+  -Bootstrap
 
-# How to Access 
+## How to Access 
 
-# Website Features 
+## Website Features 
