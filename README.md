@@ -1,5 +1,7 @@
 # ITECA-WEBSITE
   Web Name: 
+  
+  Completion Goal: *__30/04/2026__*
 
 ## Project Languages
   - HTML
@@ -9,7 +11,12 @@
   - MySQL
 
 ## Frameworks
-  -Bootstrap
+  - Bootstrap
+
+## Services Integrated 
+- Identity verification partner
+- SEO tools
+- Payment services
 
 ## How to Access 
 
